@@ -28,6 +28,6 @@ public class Class1
 		c1.add();
 		c1.sub();
 		
-		
+		System.out.println("hi");
 	}
 }

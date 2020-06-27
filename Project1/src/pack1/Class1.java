@@ -27,5 +27,7 @@ public class Class1
 		Class1 c1 = new Class1(10, 20);
 		c1.add();
 		c1.sub();
+		
+		
 	}
 }
